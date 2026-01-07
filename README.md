@@ -35,3 +35,6 @@ Based on the data, I recommend the following three-pronged strategy:
   - Senior Engagement Campaign: Launch a digital literacy program or simplified app interface for customers aged 45+ to increase "Active Member" status.
   - Product Bundle Review: Re-evaluate the value proposition for customers with 3+ products to identify why these bundles are failing to retain users.
   - Regional Retention Incentives: Implement targeted loyalty offers in the Germany region to combat localized churn spikes.
+
+# Source of Dataset
+https://www.kaggle.com/datasets/adammaus/predicting-churn-for-bank-customers
